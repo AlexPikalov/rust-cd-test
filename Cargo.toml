@@ -1,6 +1,8 @@
 [package]
 name = "cdrs-cd-test"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Alex Pikalov <alex.pikalov.khar@gmail.com>"]
+description = "Test automated release"
+license = "MIT"
 
 [dependencies]
